@@ -1,2 +1,2 @@
-# Reshma
+# Aruna
 this is the simple clock
